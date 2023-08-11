@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mariano Torena</h1>
 <h3 align="center">A passionate Backend/Frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [SSP - Sistema de Contol Patrimonial](https://taieldeluca.com.ar/desarrollo/SSP/)
+I am a technical secondary level student, I am in my 7th and last year, I also participate in the development of a web app for the patrimonial control of a hosp
 
-- 🌱 I’m currently learning **Javascipt, React and Python.**
+🔭 I’m currently working on [SSP - Sistema de Contol Patrimonial](https://taieldeluca.com.ar/desarrollo/SSP/)
 
-- 📫 How to reach me **torena.mail@gmail.com**
+🌱 I’m currently learning **Javascipt, React and Python.**
+
+📫 How to reach me **torena.mail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
